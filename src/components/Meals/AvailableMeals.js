@@ -1,5 +1,5 @@
 import classes from "./AvailableMeals.module.css";
-import Cart from "../UI/Cart";
+import Card from "../UI/Card";
 import MealItem from "./MealItem/MealItem";
 
 const DUMMY_MEALS = [
@@ -41,7 +41,7 @@ const AvailableMeals = () => {
   ));
   return (
     <section className={classes.meals}>
-      <Cart>{mealsList}</Cart>
+      <Card>{mealsList}</Card>
     </section>
   );
 };
