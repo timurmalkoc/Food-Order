@@ -1,14 +1,18 @@
 {
   "files": {
-    "main.css": "/Food-Order/static/css/main.01e4de15.css",
-    "main.js": "/Food-Order/static/js/main.9885f39a.js",
+    "main.css": "/Food-Order/static/css/main.caa9b68c.css",
+    "main.js": "/Food-Order/static/js/main.d325eb0c.js",
     "static/media/meals.jpg": "/Food-Order/static/media/meals.2971f633fc1382581cbf.jpg",
+    "static/media/Green-Bowl.jpg": "/Food-Order/static/media/Green-Bowl.fab3ece61fa6fa64cffb.jpg",
+    "static/media/Schnitzel.jpg": "/Food-Order/static/media/Schnitzel.63cd91aa21651dbf2a36.jpg",
+    "static/media/sushi.jpg": "/Food-Order/static/media/sushi.c08de3cf5baee7a5930e.jpg",
+    "static/media/Barbecue-Burger.jpg": "/Food-Order/static/media/Barbecue-Burger.b61f4c1801311c9fd5ab.jpg",
     "index.html": "/Food-Order/index.html",
-    "main.01e4de15.css.map": "/Food-Order/static/css/main.01e4de15.css.map",
-    "main.9885f39a.js.map": "/Food-Order/static/js/main.9885f39a.js.map"
+    "main.caa9b68c.css.map": "/Food-Order/static/css/main.caa9b68c.css.map",
+    "main.d325eb0c.js.map": "/Food-Order/static/js/main.d325eb0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.01e4de15.css",
-    "static/js/main.9885f39a.js"
+    "static/css/main.caa9b68c.css",
+    "static/js/main.d325eb0c.js"
   ]
 }
